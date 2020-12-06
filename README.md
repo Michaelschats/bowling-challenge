@@ -29,6 +29,7 @@ Unzipping:
 unzip jasmine-standalone-3.6.0.zip
 
 Folder Structure:
+```
 ├── MIT.LICENSE
 ├── SpecRunner.html
 ├── lib
@@ -45,5 +46,5 @@ Folder Structure:
 └── src
     |── scorecard.js
 
-
+```
 ## Diagramming
